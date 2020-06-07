@@ -2,7 +2,7 @@
 
 ## Password Management Tools
 
-A password manager will enable you to have unique, strong passwords for every service that you log into. Good password managers will generate new passwords for you, auto-fill web forms, allow extra protection for high-security accounts (like banking), and more. Choose a password manager that encrypts locally (in your browser, so you don't have to trust the provider to keep their data safe) and that has iPhone and Android apps that will auto-sync with the manager. At Bixal Solutions, we currently recommend LastPass or Keeper as it is the most full-featured, but we are keeping a close eye on the FOSS KeePass and Password Safe solutions.
+A password manager will enable you to have unique, strong passwords for every service that you log into. Good password managers will generate new passwords for you, auto-fill web forms, allow extra protection for high-security accounts (like banking), and more. Choose a password manager that encrypts locally (in your browser, so you don't have to trust the provider to keep their data safe) and that has iPhone and Android apps that will auto-sync with the manager. At Bixal Solutions, we currently recommend [BitWarden](https://bitwarden.com/) ([open source and privacy focused](https://restoreprivacy.com/bitwarden/)) LastPass or Keeper as it is the most full-featured, but we are keeping a close eye on the FOSS KeePass and Password Safe solutions.
 
 ### LastPass
 
@@ -77,10 +77,11 @@ SMS can often be an easy backup, but it is known to be insecure. Most services t
 Social engineering is the most common attack vector used to compromise computer systems. Social engineering relies heavily on human interaction and often involves tricking people into breaking normal security procedures. The following is a brief reminder of some of the methods used, but is in no way complete.
 
 * Phishing
+  * Please forward phishing emails or suspicious emails to security@bixal.com so that the IT department can quarantine the message and block the email address moving forward
   * Is the email from someone you know and contains expected information?
     * Emails from unknown people asking for some action on your part is the most common form of phishing.
-  * Don't click on links or open attachements:
-    * Unless you trust the sender and expect the link or attachment, 
+  * Don't click on links or open attachments:
+    * Unless you trust the sender and expect the link or attachment,
       * Even if you trust the source (a From: address can be spoofed) hover first and check the URL
     * If in doubt, ask an IT member (e.g. via Slack) or forward the email to an IT member
     * [More on Phishing avoidance (from EFF)](https://ssd.eff.org/en/module/how-avoid-phishing-attacks)
