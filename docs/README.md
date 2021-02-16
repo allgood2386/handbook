@@ -11,7 +11,7 @@ bixal.com
 
 ### <a name="purpose"></a>Techbook Purpose
 
-This Techbook has been prepared to describe CivicActions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
+This Techbook has been prepared to describe Bixal Solutions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
 
 ## License
 
